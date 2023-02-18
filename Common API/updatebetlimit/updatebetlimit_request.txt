@@ -33,7 +33,17 @@
             "playerOddMin": 10,
             "playerOddMax": 100,
             "playerEvenMin": 10,
-            "playerEvenMax": 100
+            "playerEvenMax": 100,
+            "perfectPairMin": 1,
+            "perfectPairMax": 2,
+            "anyPairMin": 1,
+            "anyPairMax": 2,
+            "bankerNaturalMin": 1,
+            "bankerNaturalMax": 2,
+            "playerNaturalMin": 1,
+            "playerNaturalMax": 2,
+            "super6Min": 1,
+            "super6Max": 2
         },
         {
             "gameType": 2,
@@ -64,7 +74,17 @@
             "playerOddMin": 10,
             "playerOddMax": 100,
             "playerEvenMin": 10,
-            "playerEvenMax": 100
+            "playerEvenMax": 100,
+            "perfectPairMin": 1,
+            "perfectPairMax": 2,
+            "anyPairMin": 1,
+            "anyPairMax": 2,
+            "bankerNaturalMin": 1,
+            "bankerNaturalMax": 2,
+            "playerNaturalMin": 1,
+            "playerNaturalMax": 2,
+            "super6Min": 1,
+            "super6Max": 2
         },
         {
             "gameType": 3,
